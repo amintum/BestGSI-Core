@@ -13,6 +13,7 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 *   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI-Core ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
 *   **Dynamic System Update (DSU) Ready:** Fully compatible with Android's DSU feature. You can easily boot this image alongside your host OS for safe, seamless testing.
 *   **Modern Android Base:** Built on Android 16 with Material You theming support.
+*  Security update has date of January 5, 2027, to ensure smooth installation and **bypass rollback protections**. Actual patch is June 2026 same as restless.
 
 ## 📸 Screenshots
 
