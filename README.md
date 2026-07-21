@@ -1,5 +1,7 @@
 # BestGSI-Core
-
+![Android Version](https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android)
+![Architecture](https://img.shields.io/badge/Architecture-arm64--ab-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 BestGSI-Core is a highly debloated, custom Generic System Image (GSI) built for Project Treble compatible devices. 
 
 This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliamson`](https://github.com/cawilliamson/restlessos), which itself is a fork of **GrapheneOS** packaged as a GSI. BestGSI-Core takes that secure, privacy-respecting foundation and strips it down to the absolute bare essentials, giving you complete control over your device.
