@@ -11,12 +11,6 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 *   **Dynamic System Update (DSU) Ready:** Fully compatible with Android's DSU feature. You can easily boot this image alongside your host OS for safe, seamless testing.
 *   **Modern Android Base:** Built on Android 16 with Material You theming support.
 
----
-
-## 📸 Screenshots
-
-Here is a look at BestGSI-Core in action.
-
 ## 📸 Screenshots
 
 Here is a look at BestGSI-Core in action.
