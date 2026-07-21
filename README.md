@@ -17,27 +17,47 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 Here is a look at BestGSI-Core in action.
 
-### The Bloat-Free Promise
-<img width="1080" height="2460" alt="Screenshot_20260721-061622" src="https://github.com/user-attachments/assets/2f7c0f15-7d9a-4dad-aa57-baf2cf0d4497" />
+## 📸 Screenshots
 
-> **Clean App Drawer:** Proof of our bloat-free philosophy. The OS ships with only three essential system apps: **Droid-ify** (for open-source app downloads), **Files**, and **Settings**. The rest is entirely up to you.
+Here is a look at BestGSI-Core in action.
 
-### Custom Out-of-the-Box Experience
-<img width="1080" height="2460" alt="Screenshot_20260721-061605" src="https://github.com/user-attachments/assets/6f7f630f-3198-48ea-b1b2-15cbbbf20c19" />
-<img width="1080" height="2460" alt="Screenshot_20260721-061609" src="https://github.com/user-attachments/assets/45f67742-fd0f-40d9-adb5-92e528982af0" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6f7f630f-3198-48ea-b1b2-15cbbbf20c19" width="250" /><br>
+      <b>Lock Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/45f67742-fd0f-40d9-adb5-92e528982af0" width="250" /><br>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/33845324-4310-4a54-be2c-a69f8b83b3d8" width="250" /><br>
+      <b>Quick Settings</b>
+    </td>
+  </tr>
+</table>
 
-> **Home & Lock Screen:** Showcasing the custom default wallpaper included in the build—a vibrant, illustrated nature landscape featuring a lake, mountains, and a dock. This replaces the default black background and integrates perfectly with Android's Material You color extraction, tinting the system clock and UI elements in a matching soft green.
-
-### DSU Compatibility & UI
-<img width="1080" height="2460" alt="Screenshot_20260721-061618" src="https://github.com/user-attachments/assets/4cc85e41-a52b-4604-ad00-e468c9f1c3e3" />
-<img width="1080" height="2460" alt="Screenshot_20260721-061627" src="https://github.com/user-attachments/assets/33845324-4310-4a54-be2c-a69f8b83b3d8" />
-
-> **Quick Settings & DSU:** The notification panel showing an active "Dynamic System Updates" instance running on the "Amintum" Wi-Fi network. The expanded Quick Settings panel highlights the clean layout and the custom green Material You theming generated from the default wallpaper. 
-
-### System Information
-<img width="1080" height="2460" alt="Screenshot_20260721-061638" src="https://github.com/user-attachments/assets/c25ebf63-e357-4fbc-80cd-68fbb3a88f14" />
-
-> **About Device:** Verifying the system details. BestGSI-Core runs on Android 16, utilizing the `BestGSI-Core-16.0.0-Amintum` build number, and features a patched security update date of January 5, 2027, to ensure smooth installation and bypass rollback protections.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4cc85e41-a52b-4604-ad00-e468c9f1c3e3" width="250" /><br>
+      <b>DSU Notification</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2f7c0f15-7d9a-4dad-aa57-baf2cf0d4497" width="250" /><br>
+      <b>App Drawer</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/33845324-4310-4a54-be2c-a69f8b83b3d8" width="250" /><br>
+      <b>Quick Settings</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c25ebf63-e357-4fbc-80cd-68fbb3a88f14"" width="250" /><br>
+      <b>System Information</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
