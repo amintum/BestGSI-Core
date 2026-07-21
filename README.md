@@ -46,10 +46,6 @@ Here is a look at BestGSI-Core in action.
       <b>App Drawer</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/33845324-4310-4a54-be2c-a69f8b83b3d8" width="250" /><br>
-      <b>Quick Settings</b>
-    </td>
-    <td align="center">
       <img src="https://github.com/user-attachments/assets/c25ebf63-e357-4fbc-80cd-68fbb3a88f14"" width="250" /><br>
       <b>System Information</b>
     </td>
