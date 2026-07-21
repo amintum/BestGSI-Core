@@ -90,8 +90,4 @@ If the error persists, use: fastboot delete-logical-partition system fastboot cr
 
 Need help, want to report a bug, or just want to stay updated on the latest builds and patches? Join our official community!
 
-## 🚀 Join Us on Telegram
-
-Get direct support, share your feedback, and connect with other users flashing BestGSI Avintum:
-
 **[Join the Telegram Support Group](https://t.me/amintumgsibuilds)**
