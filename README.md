@@ -62,42 +62,9 @@ Here is a look at BestGSI-Core in action.
 
 ---
 
-### Installation
+### Flashing
 
-Pre-Requisite
-Platform tools for Linux/Windows.,fastboot drivers.
-Your device must have an unlocked bootloader.
-You Can Get Vbmeta From The Stock Rom Or From Google
-open the cmd inside folder where you have gsi, plug the phone, turn on usb debugging inside developer options
-
-in command prompt type: 
-
-adb devices
-
-adb reboot bootloader
-
-fastboot flash vbmeta vbmeta.img --disable-verity --disable-verification
-
-fastboot reboot fastboot
-
-fastboot erase system
-
-fastboot flash system GSI_File_Name.img
-
-fastboot reboot recovery → Clear data/cache → Factory reset
-
-then reboot device from recovery.
-
-
-You may get "Error: not enough space to resize partition" when flashing, use:
-fastboot delete-logical-partition product_a
-
-fastboot delete-logical-partition product_b
-
-If the error persists, delete system_ext too:
-fastboot delete-logical-partition system_ext_a
-
-fastboot delete-logical-partition system_ext_b
+ [Click Here](https://github.com/amintum/BeginnerGuidetoFlashingGSI)
 
 # 💬 Support & Community
 
