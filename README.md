@@ -65,9 +65,12 @@ Here is a look at BestGSI-Core in action.
 ### Installation
 
 Pre-Requisite
-Platform tools for Linux/Windows
+Platform tools for Linux/Windows.,fastboot drivers.
 Your device must have an unlocked bootloader.
 You Can Get Vbmeta From The Stock Rom Or From Google
+open the cmd inside folder where you have gsi, plug the phone, turn on usb debugging inside developer options
+
+in command prompt type: 
 
 adb devices
 
