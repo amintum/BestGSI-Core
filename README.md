@@ -64,9 +64,10 @@ Here is a look at BestGSI-Core in action.
 
 ### Installation
 
+Pre-Requisite
+Platform tools for Linux/Windows
 Your device must have an unlocked bootloader.
-You must disable AVB with vbmeta.
-Then wipe and factory reset.
+You Can Get Vbmeta From The Stock Rom Or From Google
 
 adb devices
 
@@ -82,9 +83,18 @@ fastboot flash system GSI_File_Name.img
 
 fastboot reboot recovery → Clear data/cache → Factory reset
 
-Error: "out of space" when flashing, use: fastboot delete-logical-partition product
+then reboot device from recovery.
 
-If the error persists, use: fastboot delete-logical-partition system fastboot create-logical-partition system 0
+
+You may get "Error: not enough space to resize partition" when flashing, use:
+fastboot delete-logical-partition product_a
+
+fastboot delete-logical-partition product_b
+
+If the error persists, delete system_ext too:
+fastboot delete-logical-partition system_ext_a
+
+fastboot delete-logical-partition system_ext_b
 
 # 💬 Support & Community
 
