@@ -62,9 +62,9 @@ Here is a look at BestGSI-Core in action.
 
 ---
 
-### Flashing
+### Flashing Guide 
 
- [Click Here](https://github.com/amintum/BeginnerGuidetoFlashingGSI)
+ [Read Here](https://github.com/amintum/BeginnerGuidetoFlashingGSI)
 
 # 💬 Support & Community
 
