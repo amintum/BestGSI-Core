@@ -9,13 +9,25 @@ This project is based on **RestlessOS** by Christopher A. Williamson [`cawilliam
 
 ## ✨ Key Features
 
+# Amintum GSI Release Variants
+
+* **BestGSICore_Droidify_defaultfont.img.xz:** 
+  * Settings + files + Droidify
+  * Default system font
+
+* **BestGSICore_Droidify_newfont.img.xz:** 
+  * Settings + files + Droidify
+  * New system font
+
+* **BestGSICore_GAppsStore_defaultfont.img.xz:** 
+  * Settings + files + store to download GApps
+  * Default system font
+
+* **BestGSICore_GAppsStore_newfont.img.xz:** 
+  * Settings + files + store to download GApps
+  * New system font
+
 *   **Zero Bloatware:** We believe in user choice. BestGSI-Core comes with a strictly minimal app drawer. There are no pre-installed browser trackers, unwanted system tools, or forced services. You get a clean slate to download and install exactly what *you* want.
->*   **Two Versions:**
-
-             >One version comes up with Graphene App Store to download **Google Apps**.
-             
-             >Other version comes up with Droidify App Store to download open source apps, a degoogled alternative.
-
 *   **Custom Default Wallpaper:** Unlike the upstream RestlessOS which boots to a pitch-black background, BestGSI-Core ships with a beautiful, pre-configured default wallpaper out of the box for a better first-boot experience.
 *   **Dynamic System Update (DSU) Ready:** Fully compatible with Android's DSU feature. You can easily boot this image alongside your host OS for safe, seamless testing.
 *   **Modern Android Base:** Built on Android 16 with Material You theming support.
